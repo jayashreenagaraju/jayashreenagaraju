@@ -9,7 +9,7 @@ I am Jayashree
 - 🔭 I’m currently looking for a Data Analytics role
 - 🌱 I’m currently learning to become a better Data Analyst
 - 📍 Berlin, Germany
-- 🌐 My portfolio [Carrd](https://jayashree.carrd.co/) | [Internship](https://codebasics.io/portfolio/Jayashree-Nagaraju)
+- 🌐 My portfolio [Projects](https://github.com/jayashreenagaraju/Portfolio-Projects) **|** [Website](https://jayashree.carrd.co/) **|** [Internship](https://codebasics.io/portfolio/Jayashree-Nagaraju)
 
 <!--
 - 🔭 I’m currently working on ...
